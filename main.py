@@ -1,4 +1,4 @@
-from tkinter import *
+from tkinter import Entry, Label, Button, Tk, END
 
 FONT = ("Arial", 12, "normal")
 
